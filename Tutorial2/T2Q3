@@ -1,0 +1,8 @@
+a. System.Println("Java Programming");
+System.out.println("Java Programming");
+b.System.in.println("Introduction to Java!");
+System.out.println("Introduction to Java!");
+c. System.out.println("\t is the horizontal tab character");
+System.out.println("\\t is the horizontal tab character");
+d. system.out.println("Java is case sensitive!" );
+System.out.println("Java is case sensitive!" );

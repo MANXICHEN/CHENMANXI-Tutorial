@@ -1,0 +1,6 @@
+a.String matricNumber;
+b.double pi;
+c.boolean M = false;
+d.long P = 8800000000L;
+e.char letter = 'U';
+f.final String PRO = "Java";
